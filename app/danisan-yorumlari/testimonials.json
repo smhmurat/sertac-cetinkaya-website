@@ -1,0 +1,58 @@
+{
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "Burak Y.",
+      "title": "Danışan",
+      "image": "/testimonials/testimonial-1.jpg",
+      "quote": "Merhabalar Sertaç bey ile hayatımın en zor dönemi olarak adlandırdırdığım bir dönemde tanıştım ve terapi sürecimiz başladı. Tanışma sürecinde çekinerek katıldığım terapilerde Sertaç beyin tutumu sayesinde karşılıklı güven ortamı oluştu. Sertaç beyin alanında başarılı bir terapist olduğunu düşünüyorum. Anksiyete bozukluğu çarpıntı uyku problemleri ve bunlarla birlikte gelişen birçok hastalıktan muzdarip bir halde iken karşılıklı işbirliği içerisinde bu sorunlarımın tümünü atlatıp adım adım sağlığıma kavuştum. Sertaç beyin sakin ve ılımlı tavırları anlamlandırmaya çalışma çabası içerisindeki hal tutum ve mimikleri kendimi daha iyi analiz edebilmemde beni teşvik etti.",
+      "service": "Bireysel Terapi",
+      "rating": 5
+    },
+    {
+      "id": 2,
+      "name": "Mehmet K.",
+      "title": "Danışan",
+      "image": "/testimonials/testimonial-2.jpg",
+      "quote": "Sertaç bey ile yaptığımız görüşmeler sonucunda hayatıma daha farklı bir pencereden bakmayı öğrendim. Profesyonel yaklaşımı ve samimi tavırlarıyla kendimi çok rahat hissettim.",
+      "service": "Bireysel Terapi",
+      "rating": 5
+    },
+    {
+      "id": 3,
+      "name": "Zeynep B.",
+      "title": "Danışan",
+      "image": "/testimonials/testimonial-3.jpg",
+      "quote": "Online terapi seçeneği sayesinde farklı şehirde olmama rağmen düzenli olarak terapi alabildim. Teknolojinin bu şekilde kullanılması çok faydalı oldu.",
+      "service": "Online Terapi",
+      "rating": 5
+    },
+    {
+      "id": 4,
+      "name": "Can D.",
+      "title": "Danışan",
+      "image": "/testimonials/testimonial-4.jpg",
+      "quote": "Ergenlik döneminde yaşadığım zorlukları aşmamda bana çok yardımcı oldular. Artık kendimi daha iyi anlıyor ve ifade edebiliyorum.",
+      "service": "Ergen Terapisi",
+      "rating": 5
+    },
+    {
+      "id": 5,
+      "name": "Elif K.",
+      "title": "Danışan",
+      "image": "/testimonials/testimonial-5.jpg",
+      "quote": "Aile terapisi sürecinde aile içi iletişimimizi güçlendirdik. Çocuklarımızla olan ilişkimiz çok daha sağlıklı bir noktaya geldi.",
+      "service": "Aile Terapisi",
+      "rating": 5
+    },
+    {
+      "id": 6,
+      "name": "Ahmet Y.",
+      "title": "Danışan",
+      "image": "/testimonials/testimonial-6.jpg",
+      "quote": "Kaygı problemlerimle başa çıkmayı öğrendim. Artık hayatımı daha kontrollü ve huzurlu bir şekilde yaşayabiliyorum.",
+      "service": "Bireysel Terapi",
+      "rating": 5
+    }
+  ]
+}
