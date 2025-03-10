@@ -1,7 +1,6 @@
 "use client";
 
 import { useState } from "react";
-import Image from "next/image";
 import testimonialsData from "@/app/danisan-yorumlari/testimonials.json";
 
 export function Testimonials() {
@@ -76,7 +75,7 @@ export function Testimonials() {
             <div className="bg-gray-50 rounded-2xl p-8 md:p-12 shadow-lg">
               <div className="flex flex-col items-center">
                 <blockquote className="text-gray-600 text-lg leading-relaxed mb-6">
-                  "{testimonials[currentIndex].quote}"
+                  &ldquo;{testimonials[currentIndex].quote}&rdquo;
                 </blockquote>
                 <div className="text-center">
                   <cite className="text-emerald-900 font-semibold text-lg not-italic">

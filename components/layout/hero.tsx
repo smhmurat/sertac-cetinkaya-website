@@ -22,16 +22,17 @@ export function Hero() {
       <div className="relative z-10 container mx-auto px-4 h-screen flex flex-col justify-center">
         <div className="max-w-4xl">
           <p className="text-white/90 text-lg mb-4">
-            Ruhunuza dokunan, güvenle adım attığınız bir yolculuk.
+            Psikoterapi, bu içsel hazineyi keşfetme sanatıdır.
           </p>
 
           <h1 className="text-4xl md:text-6xl font-bold text-white mb-6 leading-tight">
-            Görülmek her bireyin ihtiyacı, hikayenizi görmek, duymak için
-            buradayız.
+            Karanlıkta parlayan yıldızlar gibi, ruhun derinliklerinde gizli
+            güçler bekler.
           </h1>
 
           <p className="text-white/90 text-xl mb-8">
-            Hayat yolculuğunuzda güvenli bir durak, sizin için buradayız.
+            Küçük bir adımla başlayan bu yolculuk, yaşamınızda gerçek
+            potansiyelinizi açığa çıkarır.
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4">

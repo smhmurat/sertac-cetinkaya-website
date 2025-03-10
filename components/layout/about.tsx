@@ -34,14 +34,14 @@ export function About() {
             <h2 className="text-4xl md:text-5xl font-bold text-emerald-900 mb-8">
               Hikayemiz
             </h2>
-            <p className="text-gray-600 text-lg leading-relaxed mb-8">
+            {/* <p className="text-gray-600 text-lg leading-relaxed mb-8">
               Görülmek her bireyin temel duygusal ihtiyaçlarından biri. Kelime
               anlamı görülmek olan Dide'de danışanlarımızın problemlerine,
               ihtiyaçlarına, arzularına merakla ve şefkatle bakmayı
               amaçlamaktayız. Uzman psikologlardan oluşan kadromuzla çocuk,
               ergen, yetişkin, çiftlerle ve ailelerle farklı terapi yöntemleri
               ile terapi hizmeti vermekteyiz.
-            </p>
+            </p> */}
             <Link
               href="/hikayemiz"
               className="inline-flex items-center gap-2 px-6 py-3 bg-emerald-900 text-white rounded-lg hover:bg-emerald-800 transition-colors duration-200"

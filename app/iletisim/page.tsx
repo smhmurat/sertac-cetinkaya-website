@@ -163,9 +163,8 @@ export default function IletisimPage() {
                       Adres
                     </h3>
                     <p className="text-gray-600">
-                      Bağdat Caddesi No: 123
                       <br />
-                      Kadıköy, İstanbul
+                      Çankaya - Ankara
                     </p>
                   </div>
                 </div>
@@ -197,7 +196,7 @@ export default function IletisimPage() {
                         href="tel:02121234567"
                         className="hover:text-emerald-800 transition-colors duration-200"
                       >
-                        0212 123 45 67
+                        0530 373 17 74
                       </a>
                     </p>
                   </div>
@@ -230,7 +229,7 @@ export default function IletisimPage() {
                         href="mailto:info@didepsikoloji.com"
                         className="hover:text-emerald-800 transition-colors duration-200"
                       >
-                        info@didepsikoloji.com
+                        sertacetinkaya@gmail.com
                       </a>
                     </p>
                   </div>

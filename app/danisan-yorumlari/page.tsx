@@ -1,6 +1,5 @@
 "use client";
 
-import Image from "next/image";
 import testimonialsData from "./testimonials.json";
 import Modal from "@/components/ui/modal";
 import { useState } from "react";
@@ -75,7 +74,7 @@ export default function DanisanYorumlariPage() {
                 </div>
                 <StarRating rating={testimonial.rating} />
                 <blockquote className="mt-4 text-gray-600 leading-relaxed">
-                  "{truncateText(testimonial.quote, 200)}"
+                  &ldquo;{truncateText(testimonial.quote, 200)}&rdquo;
                   {testimonial.quote.length > 200 && (
                     <button
                       onClick={() => setSelectedTestimonial(testimonial)}
@@ -106,7 +105,7 @@ export default function DanisanYorumlariPage() {
             </div>
             <StarRating rating={selectedTestimonial.rating} />
             <blockquote className="text-gray-600 leading-relaxed">
-              "{selectedTestimonial.quote}"
+              &ldquo;{selectedTestimonial.quote}&rdquo;
             </blockquote>
           </div>
         )}

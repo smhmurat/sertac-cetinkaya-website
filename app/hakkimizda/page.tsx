@@ -1,5 +1,3 @@
-import Image from "next/image";
-
 export default function HakkimizdaPage() {
   return (
     <main>
@@ -9,8 +7,12 @@ export default function HakkimizdaPage() {
         <div className="relative h-full container mx-auto px-4 flex flex-col justify-center items-center text-center text-white">
           <h1 className="text-4xl md:text-5xl font-bold mb-4">Hakkımızda</h1>
           <p className="text-lg md:text-xl max-w-2xl">
-            Dide Psikoloji olarak ruh sağlığı alanında profesyonel ve güvenilir
-            hizmet sunuyoruz.
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga ipsa
+            perspiciatis quidem accusamus omnis sint! Harum expedita, officiis
+            vero quis aperiam maxime mollitia aliquam voluptas ipsam id, natus
+            numquam, provident laudantium ea atque fuga quo delectus maiores
+            itaque. Facilis provident a tempore distinctio quo illo excepturi
+            soluta dignissimos suscipit alias.
           </p>
         </div>
       </section>
@@ -45,7 +47,7 @@ export default function HakkimizdaPage() {
       </section>
 
       {/* Ekip */}
-      <section className="py-20 bg-[rgb(251,247,243)]">
+      {/* <section className="py-20 bg-[rgb(251,247,243)]">
         <div className="container mx-auto px-4">
           <h2 className="text-3xl md:text-4xl font-bold text-emerald-900 text-center mb-16">
             Uzman Kadromuz
@@ -77,7 +79,7 @@ export default function HakkimizdaPage() {
             ))}
           </div>
         </div>
-      </section>
+      </section> */}
 
       {/* Değerlerimiz */}
       <section className="py-20 bg-white">

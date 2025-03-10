@@ -18,8 +18,11 @@ const footerLinks = {
     { name: "S.S.S.", href: "/sss" },
   ],
   iletisim: [
-    { name: "0212 123 45 67", href: "tel:02121234567" },
-    { name: "info@didepsikoloji.com", href: "mailto:info@didepsikoloji.com" },
+    { name: "0530 373 17 74", href: "tel:05303731774" },
+    {
+      name: "sertacetinkaya@gmail.com",
+      href: "mailto:sertacetinkaya@gmail.com",
+    },
     { name: "Konum", href: "https://maps.google.com" },
   ],
 };
@@ -79,7 +82,7 @@ export function Footer() {
           <div>
             <Link href="/" className="flex items-center gap-2 mb-6">
               <Image
-                src="/logo.svg"
+                src="/logo-dark.svg"
                 alt="Dide Psikoloji Logo"
                 width={40}
                 height={40}
